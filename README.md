@@ -5,6 +5,14 @@
 A landslide occurs when masses of rock, debris, or earth move down a slope. It is a type of "mass wasting," referring to the downward movement of soil and rock due to gravity. Landslides are categorized into five movement types: falls, topples, slides, spreads, and flows, which can involve different geological materials such as bedrock, debris, or soil. Common examples include debris flows (often called mudslides) and rockfalls.
 
 
+## Why Study Landslides?
+
+Landslides are a significant geological hazard affecting nearly every state in the United States. As populations expand into hilly or mountainous areas, understanding the risks posed by landslide hazards becomes crucial. It enables cities, towns, and counties to plan land use and design new construction and infrastructure to minimize the impact and reduce costs associated with living in landslide-prone areas.
+
+While many physical causes of landslides cannot be eliminated, proper geologic investigations, sound engineering practices, and enforcing land-use management regulations can help mitigate these risks. Studying landslides also provides valuable insights into their causes, movement patterns, soil characteristics, associated geology, and the locations most susceptible to these events.
+
+
+
 ![Landslide Animation 2](assets/landslide-animation-2.gif)
 
 
@@ -115,3 +123,17 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+
+## Credits
+
+### GIFs:
+- [Tenor - Landslide GIF](https://tenor.com/view/landslide-gif-12380887)
+- [Giphy - Landslide GIF](https://giphy.com/gifs/iEakcXftNNZRe)
+- [NASA Earth Observatory - Landslide Animation](https://eoimages.gsfc.nasa.gov/images/imagerecords/92000/92018/landslides_gpm_2016_lrg.gif)
+
+### Information Sources:
+- [USGS - What is a Landslide and What Causes One?](https://www.usgs.gov/faqs/what-a-landslide-and-what-causes-one)
+- [USGS - Why Study Landslides?](https://www.usgs.gov/faqs/why-study-landslides)
+
+
