@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+requests
+matplotlib
+streamlit
+dash
+holoviz
