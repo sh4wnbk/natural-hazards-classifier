@@ -1,8 +1,11 @@
 ## What is a Landslide?
 
+![Landslide Animation 1](assets/landslide-animation-1.gif)
+
 A landslide occurs when masses of rock, debris, or earth move down a slope. It is a type of "mass wasting," referring to the downward movement of soil and rock due to gravity. Landslides are categorized into five movement types: falls, topples, slides, spreads, and flows, which can involve different geological materials such as bedrock, debris, or soil. Common examples include debris flows (often called mudslides) and rockfalls.
 
-![Landslide Animation 1](assets/landslide-animation-1.gif)     ![Landslide Animation 2](assets/landslide-animation-2.gif)
+
+![Landslide Animation 2](assets/landslide-animation-2.gif)
 
 
 
@@ -34,6 +37,9 @@ preparedness and risk assessment.
 - Features include rainfall intensity, soil saturation, slope gradient, and seismic activity.
 
 ### Real-Time API Integration
+
+![Landslide Animation 1](assets/landslide-animation-1.gif)
+
 - Fetches live environmental data from APIs:
   - **NASA GPM:** Precipitation data.
   - **USGS:** Seismic activity updates.
