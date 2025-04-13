@@ -38,7 +38,7 @@ preparedness and risk assessment.
 
 ### Real-Time API Integration
 
-![Landslide Animation 1](assets/landslide-animation-1.gif)
+![Landslide Animation 1](assets/landslides_gpm_2016_lrg.gif)
 
 - Fetches live environmental data from APIs:
   - **NASA GPM:** Precipitation data.
