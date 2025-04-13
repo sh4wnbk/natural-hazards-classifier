@@ -57,7 +57,7 @@ preparedness and risk assessment.
 - **Data Manipulation:** [pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/)
 - **Visualization Tools:** [Matplotlib](https://matplotlib.org/), [Streamlit](https://streamlit.io/), [Dash](https://plotly.com/dash/), [HoloViz](https://holoviz.org/)
 - **API Integration:** [requests](https://docs.python-requests.org/)
-- **Dashboard Development:** Streamlit, Dash, or HoloViz (to be finalized)
+- **Dashboard Development:** Streamlit, Dash, or HoloViz (tbd)
 
 ## Installation
 
