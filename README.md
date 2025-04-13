@@ -42,6 +42,7 @@ preparedness and risk assessment.
 - Displays real-time rainfall and hazard indicators for specific regions.
 
 📂 natural-hazards-classifier
+ ├── 📂 assets          # Static resources
  ├── 📂 data            # Historical and real-time datasets
  ├── 📂 src             # Scripts for preprocessing, training, and API calls
  ├── 📂 notebooks       # Jupyter notebooks for exploration and testing
