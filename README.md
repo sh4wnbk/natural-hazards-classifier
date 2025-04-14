@@ -128,7 +128,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Credits
 
 ### GIFs:
-- [media2.giphy - Landslide GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBjOW1rZnlsMjljZjY3b3I0YmloZGVzYnNnMGNtY3d3N2gzZGFrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iEakcXftNNZRe/giphy.gif)
+- [boisestatepublicradio.org - Landslide GIF](https://npr.brightspotcdn.com/dims4/default/fef6a56/2147483647/strip/true/crop/480x270+0+0/resize/1760x990!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fidaho%2Ffiles%2F201704%2Fmudslide_gif.gif)
 - [Giphy - Landslide GIF](https://giphy.com/gifs/iEakcXftNNZRe)
 - [NASA Earth Observatory - Landslide Animation](https://eoimages.gsfc.nasa.gov/images/imagerecords/92000/92018/landslides_gpm_2016_lrg.gif)
 
