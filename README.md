@@ -101,6 +101,32 @@ This hybrid approach creates a semi-real-time landslide prediction system, makin
  ├── 📜 requirements.txt # Python libraries and dependencies
  ├── 📜 main.py         # Main script for classification and dashboard updates
 
+ ## Data Sources
+
+### Static Datasets
+- **Historical Landslide Occurrences**:
+  - [USGS Landslide Inventory](https://www.usgs.gov/tools/us-landslide-inventory-and-susceptibility-map)
+  - [Globally Distributed Coseismic Landslide Dataset (GDCLD)](https://essd.copernicus.org/articles/16/4817/2024/)
+- **Terrain Features**:
+  - [USGS Digital Elevation Models (DEMs)](https://www.usgs.gov/the-national-map-data-delivery/gis-data-download)
+  - [Global Terrain Data from ESSD](https://essd.copernicus.org/articles/16/4817/2024/)
+- **Soil Type**:
+  - [ISRIC SoilGrids](https://www.isric.org/explore/soil-geographic-databases)
+  - [USGS Soil Properties Dataset](https://www.usgs.gov/data/soil-properties-dataset-united-states)
+- **Past Rainfall Data**:
+  - [NASA GPM Historical Data](https://appliedsciences.nasa.gov/sites/default/files/2025-03/Landslides_Part3_Final.pdf)
+  - [NOAA Climate Data](https://www.ncei.noaa.gov/cdo-web/)
+
+### Dynamic Datasets
+- **Real-Time Geospatial Data**:
+  - [NASA SMAP Soil Moisture Data](https://smap.jpl.nasa.gov/)
+  - [Global Precipitation Measurement (GPM)](https://gpm.nasa.gov/)
+- **Meteorological Inputs**:
+  - [MERRA-2 Dataset](https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/)
+  - [Wind-Driven Rainfall Metrics from NOAA](https://www.ncdc.noaa.gov/)
+- **Seismic Activity**:
+  - [USGS Earthquake Data](https://earthquake.usgs.gov/data/)
+
 ## Technologies & Tools
 
 - **Programming Language:** [Python](https://www.python.org/)
@@ -109,6 +135,7 @@ This hybrid approach creates a semi-real-time landslide prediction system, makin
 - **Visualization Tools:** [Matplotlib](https://matplotlib.org/), [Streamlit](https://streamlit.io/), [Dash](https://plotly.com/dash/), [HoloViz](https://holoviz.org/)
 - **API Integration:** [requests](https://docs.python-requests.org/)
 - **Dashboard Development:** Streamlit, Dash, or HoloViz (tbd)
+- **Interactive Development Environments:** [Jupyter Notebooks](https://jupyter.org/), [Google Colab](https://colab.research.google.com/)
 
 ## Installation
 
