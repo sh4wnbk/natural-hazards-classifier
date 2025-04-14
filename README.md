@@ -128,7 +128,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Credits
 
 ### GIFs:
-- [Tenor - Landslide GIF](https://tenor.com/view/landslide-gif-12380887)
+- [Tenor - Landslide GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjBjOW1rZnlsMjljZjY3b3I0YmloZGVzYnNnMGNtY3d3N2gzZGFrOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iEakcXftNNZRe/giphy.gif)
 - [Giphy - Landslide GIF](https://giphy.com/gifs/iEakcXftNNZRe)
 - [NASA Earth Observatory - Landslide Animation](https://eoimages.gsfc.nasa.gov/images/imagerecords/92000/92018/landslides_gpm_2016_lrg.gif)
 
