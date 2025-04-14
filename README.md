@@ -57,6 +57,37 @@ preparedness and risk assessment.
 - A machine learning model trained to classify landslide risk.
 - Includes dynamic threshold tuning based on real-time updates.
 
+## How Logistic Regression Fits In
+
+Logistic regression works well for classifying landslide risk based on historical patterns and static environmental conditions (e.g., precipitation, slope gradient, soil type). It helps identify high-risk zones but lacks the ability to adjust dynamically based on real-time data.
+
+## How Real-Time Geospatial Data Enhances It
+
+To overcome this limitation, NASA’s LHASA system and the MERRA-2 dataset can be integrated to provide the model with real-time meteorological inputs:
+
+- **Global Precipitation Measurement (GPM)**: Provides live rainfall data.
+- **Wind-Driven Rainfall (WDR)**: Helps determine terrain-specific impacts.
+- **DEM (Digital Elevation Model) Data**: Allows slope aspect calculations.
+- **Antecedent Soil Moisture**: Enhances predictions by considering how much water is retained in soil.
+
+## Proposed Hybrid Modeling Workflow
+
+### Static Logistic Regression Classifier
+- Trained on historical landslide occurrences, terrain slope, soil type, and past rainfall data.
+- Produces baseline probability estimates for landslide susceptibility.
+
+### Real-Time Data Layer
+- Uses GPM, MERRA-2, and terrain elevation data to update rainfall intensity, wind direction, and soil saturation levels.
+- Computes dynamic probability adjustments based on live environmental changes.
+
+### Final Hazard Prediction
+- Logistic regression provides the core classification.
+- Live data dynamically refines thresholds, adjusting real-time risks based on rainfall severity.
+
+## Outcome
+
+This hybrid approach creates a semi-real-time landslide prediction system, making it more actionable for disaster response and early warning systems.
+
 ### Interactive Dashboard
 - Visualizes live landslide predictions.
 - Displays real-time rainfall and hazard indicators for specific regions.
