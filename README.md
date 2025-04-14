@@ -128,9 +128,9 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Credits
 
 ### GIFs:
-- [boisestatepublicradio.org - Landslide GIF](https://npr.brightspotcdn.com/dims4/default/fef6a56/2147483647/strip/true/crop/480x270+0+0/resize/1760x990!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fidaho%2Ffiles%2F201704%2Fmudslide_gif.gif)
-- [Giphy - Landslide GIF](https://giphy.com/gifs/iEakcXftNNZRe)
-- [NASA Earth Observatory - Landslide Animation](https://eoimages.gsfc.nasa.gov/images/imagerecords/92000/92018/landslides_gpm_2016_lrg.gif)
+- [boisestatepublicradio.org - ](https://www.boisestatepublicradio.org/idaho-news/2017-04-12/scary-mudslide-caught-on-tape-on-idaho-u-s-highway-95)
+- [Giphy - ](https://giphy.com/gifs/iEakcXftNNZRe)
+- [NASA Earth Observatory - ](https://eoimages.gsfc.nasa.gov/images/imagerecords/92000/92018/landslides_gpm_2016_lrg.gif)
 
 ### Information Sources:
 - [USGS - What is a Landslide and What Causes One?](https://www.usgs.gov/faqs/what-a-landslide-and-what-causes-one)
