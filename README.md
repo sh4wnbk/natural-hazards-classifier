@@ -106,7 +106,7 @@ This hybrid approach creates a semi-real-time landslide prediction system, makin
 ### Static Datasets
 - **Historical Landslide Occurrences**:
   - [USGS Landslide Inventory](https://www.usgs.gov/tools/us-landslide-inventory-and-susceptibility-map)
-  - [Globally Distributed Coseismic Landslide Dataset (GDCLD)](https://essd.copernicus.org/articles/16/4817/2024/)
+  - [Globally Distributed Coseismic Landslide Dataset (GDCLD)](https://zenodo.org/records/13612636)
 - **Terrain Features**:
   - [USGS Digital Elevation Models (DEMs)](https://www.usgs.gov/the-national-map-data-delivery/gis-data-download)
   - [Global Terrain Data from ESSD](https://essd.copernicus.org/articles/16/4817/2024/)
