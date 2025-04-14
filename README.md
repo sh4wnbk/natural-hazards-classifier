@@ -128,9 +128,9 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Credits
 
 ### GIFs:
-- [boisestatepublicradio.org - ](https://www.boisestatepublicradio.org/idaho-news/2017-04-12/scary-mudslide-caught-on-tape-on-idaho-u-s-highway-95)
-- [Giphy - ](https://giphy.com/gifs/iEakcXftNNZRe)
-- [NASA Earth Observatory - ](https://eoimages.gsfc.nasa.gov/images/imagerecords/92000/92018/landslides_gpm_2016_lrg.gif)
+- [boisestatepublicradio.org](https://www.boisestatepublicradio.org/idaho-news/2017-04-12/scary-mudslide-caught-on-tape-on-idaho-u-s-highway-95)
+- [Giphy](https://giphy.com/gifs/iEakcXftNNZRe)
+- [NASA Earth Observatory](https://eoimages.gsfc.nasa.gov/images/imagerecords/92000/92018/landslides_gpm_2016_lrg.gif)
 
 ### Information Sources:
 - [USGS - What is a Landslide and What Causes One?](https://www.usgs.gov/faqs/what-a-landslide-and-what-causes-one)
