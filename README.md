@@ -106,7 +106,8 @@ This hybrid approach creates a semi-real-time landslide prediction system, makin
 ### Static Datasets
 - **Historical Landslide Occurrences**:
   - [USGS Landslide Inventory](https://www.usgs.gov/tools/us-landslide-inventory-and-susceptibility-map)
-  - [Globally Distributed Coseismic Landslide Dataset (GDCLD)](https://zenodo.org/records/13612636)
+  - [Globally Distributed Coseismic Landslide Dataset (GDCLD)](https://essd.copernicus.org/articles/16/4817/2024/)
+  - [EMDAT (Emergency Events Database)](https://www.emdat.be/)
 - **Terrain Features**:
   - [USGS Digital Elevation Models (DEMs)](https://www.usgs.gov/the-national-map-data-delivery/gis-data-download)
   - [Global Terrain Data from ESSD](https://essd.copernicus.org/articles/16/4817/2024/)
@@ -114,18 +115,21 @@ This hybrid approach creates a semi-real-time landslide prediction system, makin
   - [ISRIC SoilGrids](https://www.isric.org/explore/soil-geographic-databases)
   - [USGS Soil Properties Dataset](https://www.usgs.gov/data/soil-properties-dataset-united-states)
 - **Past Rainfall Data**:
-  - [NASA GPM Historical Data](https://appliedsciences.nasa.gov/sites/default/files/2025-03/Landslides_Part3_Final.pdf)
+  - [NASA GPM Historical Data](https://gpm.nasa.gov/data/imerg)
   - [NOAA Climate Data](https://www.ncei.noaa.gov/cdo-web/)
 
 ### Dynamic Datasets
 - **Real-Time Geospatial Data**:
   - [NASA SMAP Soil Moisture Data](https://smap.jpl.nasa.gov/)
   - [Global Precipitation Measurement (GPM)](https://gpm.nasa.gov/)
+  - [IMERG (Integrated Multi-satellite Retrievals for GPM)](https://gpm.nasa.gov/data/imerg)
 - **Meteorological Inputs**:
   - [MERRA-2 Dataset](https://gmao.gsfc.nasa.gov/reanalysis/MERRA-2/)
   - [Wind-Driven Rainfall Metrics from NOAA](https://www.ncdc.noaa.gov/)
 - **Seismic Activity**:
   - [USGS Earthquake Data](https://earthquake.usgs.gov/data/)
+- **Data Visualization and Subsetting**:
+  - [Giovanni (NASA GES DISC)](https://giovanni.gsfc.nasa.gov/giovanni/)
 
 ## Technologies & Tools
 
